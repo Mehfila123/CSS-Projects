@@ -1,23 +1,48 @@
-body{
-  background-color: beige;
-
-
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    text-align: center;
+    padding: 10px;
+    background-color: #7117bf;
+    color: white;
+    margin: 20px;
+    font-family:'Times New Roman', Times, serif
+}
+header img {
+    width: 200px;
+    height: 200px;
+    border-radius: 60%;
+    margin-bottom: 0px;
+}
+section {
+    margin: 20px;
+    background-color: #7117bf;
+    font-family:'Times New Roman', Times, serif
+}
+.project {
+    width: 200px; /* Square dimensions */
+    height: 200px;
+    border: 5px solid #ccc;
+    margin: 1px;
+    display: inline-block; /* Aligns the containers side by side */
+    text-align: center;
+    line-height: 210px; /* Vertically centers the text */
+}
+h2{
+    color: rgb(0, 0, 0);
 }
 h1 {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
-    text-align: center;
-    
+    color: white;
+}
+#bio, #work {
+    background-color:rgb(221, 215, 204);
+    padding: 15px;
 }
 
-h2{
-     color: rgb(158, 128, 106);
-     text-align: center;
-     font-family: 'Courier New', Courier, monospace;
-}
-
-p{
-    text-align: center;
-    font-size: larger;
-    font-style: italic;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+footer {
+    background-color: #f4f4f4;
+    font-family:'Times New Roman', Times, serif;
+    text-align: right;
+    padding: 10px;
 }

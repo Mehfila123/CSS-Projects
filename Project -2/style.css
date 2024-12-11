@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    background-color:rgb(159, 159, 79);
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+header nav{
+    text-align: center;
+}
+header img{ width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+section{
+    background-color:beige ;
+    padding: 10px;
+    margin: 10px;
+    
+}

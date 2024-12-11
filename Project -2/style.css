@@ -23,7 +23,10 @@ section{
     padding: 30px;
     margin: 10px;
 }
-.projects{
-
+#project1{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 3px solid
 }
 

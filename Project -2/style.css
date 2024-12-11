@@ -2,10 +2,14 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 header{
+    color: white;
     background-color:rgb(159, 159, 79);
     text-align: center;
     padding: 10px;
     margin: 10px;
+}
+header p{
+   font-size: larger;
 }
 header nav{
     text-align: center;
@@ -16,7 +20,10 @@ header img{ width: 200px;
 }
 section{
     background-color:beige ;
-    padding: 10px;
+    padding: 30px;
     margin: 10px;
-    
 }
+.projects{
+
+}
+

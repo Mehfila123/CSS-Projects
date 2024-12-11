@@ -20,7 +20,7 @@ header img{ width: 200px;
 }
 section{
     background-color:beige ;
-    padding: 30px;
+    padding: 50px;
     margin: 10px;
 }
 h3{
@@ -33,7 +33,7 @@ h3{
     border: 3px solid;
     display: inline-block;
     background-color: rgb(222, 214, 178);
-    padding: 10px;
+    padding: 20px;
 }
 #project2{
     text-align: center;
@@ -42,7 +42,7 @@ h3{
     border: 3px solid;
     display: inline-block;
     background-color: rgb(222, 214, 178);
-    padding: 10px;
+    padding: 20px;
 }
 #project3{
     text-align: center;
@@ -51,7 +51,7 @@ h3{
     border: 3px solid;
     display : inline-block;
     background-color: rgb(222, 214, 178);
-    padding: 10px;
+    padding: 20px;
 }
 #project4{
     text-align: center;
@@ -60,7 +60,7 @@ h3{
     border: 3px solid;
     display : inline-block;
     background-color: rgb(222, 214, 178);
-    padding: 10px;
+    padding: 20px;
 }
 #project5{
     text-align: center;
@@ -69,7 +69,7 @@ h3{
     border: 3px solid;
     display : inline-block;
     background-color: rgb(222, 214, 178);
-    padding: 10px;
+    padding: 20px;
 }
 #project6{
     text-align: center;
@@ -78,8 +78,8 @@ h3{
     border: 3px solid;
     display : inline-block;
     background-color: rgb(222, 214, 178);
-    padding: 10px;
+    padding: 20px;
 }
-projects p{
+.projects p{
     text-align: left;
 }

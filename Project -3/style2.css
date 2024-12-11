@@ -1,0 +1,88 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    color: white;
+    background-color:rgb(159, 159, 79);
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+header p{
+   font-size: larger;
+}
+header nav{
+    text-align: center;
+}
+header img{ width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+section{
+    background-color:beige ;
+    padding: 50px;
+    margin: 10px;
+}
+h3{
+    text-align: center;
+}
+#project1{
+    text-align: center  ;
+    width: 200px;
+    height: 200px;
+    border: 3px solid;
+    display: inline-block;
+    background-color: rgb(222, 214, 178);
+    padding: 20px;
+}
+#project2{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 3px solid;
+    display: inline-block;
+    background-color: rgb(222, 214, 178);
+    padding: 20px;
+}
+#project3{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 3px solid;
+    display : inline-block;
+    background-color: rgb(222, 214, 178);
+    padding: 20px;
+}
+#project4{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 3px solid;
+    display : inline-block;
+    background-color: rgb(222, 214, 178);
+    padding: 20px;
+}
+#project5{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 3px solid;
+    display : inline-block;
+    background-color: rgb(222, 214, 178);
+    padding: 20px;
+}
+#project6{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 3px solid;
+    display : inline-block;
+    background-color: rgb(222, 214, 178);
+    padding: 20px;
+}
+.projects p{
+    text-align: left;
+}
+#contact{
+    text-align: end;
+}

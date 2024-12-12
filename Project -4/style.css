@@ -1,0 +1,42 @@
+header{
+    background-color: black;
+    color: beige;
+    text-align: center;
+    margin: 1px;
+    padding: 1px;
+}
+header nav ul {
+    list-style: none;
+    padding: 10px;
+    margin: 0 10px;
+}
+header nav ul li {
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    margin: 0 15px;
+}
+a:link{
+    color: beige;
+}
+ a:hover{
+    color: yellow;
+}
+ a:active{
+    color: rgb(91, 229, 91);
+}
+article{
+    background-color: beige;
+    margin: 20px;
+    padding: 40px;
+    text-align: left;
+}
+footer{
+    color: beige;
+    margin: 0;
+    padding: 10px;
+    padding-top: 10px ;
+    text-align: center;
+    background-color: black;
+
+}

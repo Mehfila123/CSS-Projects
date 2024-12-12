@@ -5,6 +5,13 @@ header{
     margin: 1px;
     padding: 1px;
 }
+#nameofblog{
+    text-align: center;
+    text-decoration: underline;
+}
+#nameofblog{
+    text-decoration: underline;
+}
 header nav ul {
     list-style: none;
     padding: 10px;
@@ -24,6 +31,9 @@ a:link{
 }
  a:active{
     color: rgb(91, 229, 91);
+}
+a:visited{
+    color: beige;
 }
 article{
     background-color: beige;

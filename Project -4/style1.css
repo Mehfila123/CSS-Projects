@@ -1,7 +1,7 @@
 header img{
- border-radius: 100px;
- height: 200px;
- width: 200px;
+ border-radius: 80px;
+ height: 150px;
+ width: 150px;
 }
 header{
     background-color: black;
@@ -35,6 +35,13 @@ a:link{
 }
 a:visited{
     color: beige;
+}
+article{
+    background-color: beige;
+    margin: 20px;
+    padding: 40px;
+    text-align: left;
+    box-shadow: 20px;
 }
 footer{
     color: beige;

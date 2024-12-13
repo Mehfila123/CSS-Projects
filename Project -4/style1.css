@@ -9,6 +9,7 @@ header{
     text-align: center;
     margin: 1px;
     padding: 1px;
+    font-family: cursive;
 }
 header nav ul {
     list-style: none;
@@ -42,6 +43,12 @@ article{
     padding: 40px;
     text-align: left;
     box-shadow: 20px;
+    font-family: cursive;
+    border-radius: 30px;
+    border: 1px dashed;
+}
+h1{
+    font-family: cursive;
 }
 footer{
     color: beige;
@@ -50,4 +57,5 @@ footer{
     padding-top: 10px ;
     text-align: center;
     background-color: black;
+    font-family: cursive;
 }

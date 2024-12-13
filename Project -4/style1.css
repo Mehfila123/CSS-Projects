@@ -1,3 +1,8 @@
+header img{
+ border-radius: 100px;
+ height: 200px;
+ width: 200px;
+}
 header{
     background-color: black;
     color: beige;
@@ -16,6 +21,9 @@ header nav ul li {
     padding: 10px;
     margin: 0 25px;
 }
+#nameofblog{
+    text-align: center;
+}
 a:link{
     color: beige;
 }
@@ -27,13 +35,6 @@ a:link{
 }
 a:visited{
     color: beige;
-}
-article{
-    background-color: beige;
-    margin: 20px;
-    padding: 40px;
-    text-align: left;
-    box-shadow: 10px;
 }
 footer{
     color: beige;

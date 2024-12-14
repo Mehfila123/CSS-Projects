@@ -13,7 +13,7 @@ body{
 }
 .mydiv{
     background-color:#ffc2d1;
-    width: 190px;
+    width: 210px;
     height: 50px;
     border: 1px solid #ffc2d1 ;
     margin-left: 0px;
@@ -24,10 +24,26 @@ body{
 #ingredients{
     background-color:#ffc2d1;
     width: 190px;
-    height: 50px;
-    border: 1px solid #ffc2d1 ;
-    margin-left: 0px;
-    padding-top: 0px;
-    padding-bottom: 10px;
-    text-align: center;
+    height: 250px;
+    border: 2px dashed black ;
+    margin: 10px;
+    padding: 10px 10px 10px 10px;
+    text-align: left;
+    border-radius: 10px;
+}
+h3{
+    color: #ef476f;
+}
+li::marker{
+    color: #ef476f;
+}
+#Preparation{
+    background-color:#ffc2d1;
+    width: auto ;
+    height: auto;
+    padding: 20px 20px  10px 20px  ;
+    text-align: left;
+    border: 2px dashed black;
+    margin: 10px;
+    border-radius: 10px;
 }
